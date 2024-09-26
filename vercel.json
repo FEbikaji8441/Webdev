@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
       {
-        "src": "./JawanCF.html",
+        "src": "https://webdev-server.vercel.app/",
         "use": "@vercel/node"
       }
     ],
